@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/3eeb.html"/>
+      <url>/posts/3eeb.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Railway Network下载</title>
+      <link href="/posts/83c1.html"/>
+      <url>/posts/83c1.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="整合包的名称"><a href="#整合包的名称" class="headerlink" title="整合包的名称"></a>整合包的名称</h3><p>本整合包名称：Railway Network Access &#x2F; Better Minecraft Railway</p><h3 id="本整合包的简介"><a href="#本整合包的简介" class="headerlink" title="本整合包的简介"></a>本整合包的简介</h3><p>路网通途&#x2F;更好的我的世界铁路(Railway Network Access &#x2F;Better Minecraft Railway)整合包旨在给予想使用MTR(我的世界铁路)或IR(沉浸铁路)建设铁路系统&#x2F;轨道交通系统的玩家们一个实用、美观、便捷、优化较好、可开箱即用的平台。玩家亦可自由地加减整合包中的Mods，创建属于自己的个性化包。</p><h3 id="运行需求"><a href="#运行需求" class="headerlink" title="运行需求"></a>运行需求</h3><p>Java要求：<br>MTR-Forge 1.8.9、1.10.2：Java 8（推荐：Java 8）<br>RTM-Forge 1.12.2：Java 8（推荐：Java 8）<br>RTM&amp;IR-Forge 1.12.2：Java 8（推荐：Java 8）<br>IR-Cleanroom 1.12.2：Java 21～22（推荐：Java 22）<br>IR-Forge 1.14.4：Java 8～10（推荐：Java 10）<br>IR-Forge 1.15.2：Java 8～11（推荐：Java 11）<br>IR-Forge 1.16.5：Java 11～22（推荐：Java 22）<br>MTR-Fabric 1.17.1：Java 16～22（推荐：Java 22）<br>MTR-Forge 1.18.2～1.20.1：Java 17～22（推荐：Java 22）<br>MTR-Fabric 1.19.4、1.20.1：Java 17～22（推荐：Java 22）<br>OptiNotFine需求：<br>IR-Forge 1.14.4：这个版本无法使用OptiFine，因为在此版本中沉浸铁路与其冲突。所以开不了光影<br>MTR-Forge 1.17.1：这个版本无需OptiFine，因为在此版本中有优化更好的钠系列+Iris Shaders光影渲染器。<br>MTR-Forge 1.16.5～1.19.2：这些版本无需OptiFine，因为在这些版本中有优化更好的Embeddium系列+Oculus光影渲染器。<br>MTR-NeoForge &#x2F; LexForge 1.20.1：这些版本无需OptiFine，因为在这些版本中有优化更好的Xenon系列+Oculus光影渲染器。</p><h3 id="整合包的注意事项"><a href="#整合包的注意事项" class="headerlink" title="整合包的注意事项"></a>整合包的注意事项</h3><p>注意事项</p><p>1.您可以 二次修改并分发以此整合包任何版本为基底的整合包。</p><p>2.您不可以 将您二次修改并分发以此整合包任何版本为基底的整合包用作商业用途。</p><p>3.您应当 在二次修改并分发以此整合包任何版本为基底的整合包前征得作者允许。</p><p>4.您应当 在您二次修改并分发以此整合包任何版本为基底的整合包的官方介绍页面或发布网站上放置一个定位到本整合包 MC百科页面 或页面的有效链接。</p><p>5.您不可以 在您二次修改并分发以此整合包任何版本为基底的整合包中添加任何违法违规内容。我们无权 随意地撤销我们先前给您的许可。</p><h3 id="整合包的下载"><a href="#整合包的下载" class="headerlink" title="整合包的下载"></a>整合包的下载</h3><p>这里仅展示最新版本，如需要其它版本，请访问该链接，MC百科: <a href="https://www.mcmod.cn/modpack/885.html">整合包MC百科页面</a></p><p>Modrinth: Fabric1.20.1下载地址: <a href="https://modrinth.com/modpack/better-mtr">下载</a><br>Modrinth: Fabric1.19.4下载地址: <a href="https://www.123pan.com/s/6FjRjv-DVwsA#%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9A1145">下载</a><br>Modrinth: Forge下载地址: <a href="https://modrinth.com/modpack/railway-network-access">下载</a></p><h3 id="整合包的问题反馈"><a href="#整合包的问题反馈" class="headerlink" title="整合包的问题反馈"></a>整合包的问题反馈</h3><p>1.您可以在本条文章底部信息评论，请在昵称填写QQ号，方便我们联系到您，问题描述清楚</p><p>2.您可以去往MC百科的底部进行问题上报</p><p>3.加入整合包用户群QQ反馈: <a href="https://link.mcmod.cn/target/aHR0cDovL3FtLnFxLmNvbS9jZ2ktYmluL3FtL3FyP193dj0xMDI3JmFtcDtrPTVIUUJqeVVDdXRjSjMyT3JPWnQ2c3QzMEo5R0NfUkVjJmFtcDthdXRoS2V5PTFkcVRUYzA4JTJGJTJCWnJCWjR5MjA2a3klMkJTZ0pvallORzJoVkpzYm5nM2xwM1NRVHdjQiUyRmIxNEJsdkNZaFR3aDVyZyZhbXA7bm92ZXJpZnk9MCZhbXA7Z3JvdXBfY29kZT0zOTA3MDg3MDU=">QQ进群反馈链接</a></p><p>感谢您对本工作室的支持！                                                                                              </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Minecraft </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>关于本站</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
